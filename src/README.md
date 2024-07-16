@@ -1,6 +1,10 @@
 Control software
 ====
 
-This directory must contain code for control software which is used by the vehicle to participate in the competition and which was developed by the participants.
+This directory contains the code for the control software which was developed by our team and is used by our vehicle in order to participate in the competition.
 
-All artifacts required to resolve dependencies and build the project must be included in this directory as well.
+~*~
+
+The software we used for our team's self-driving car is AIcode, the programming language for Nashenbot's AISTEAM. The attached code is the official one we used in order to make our car self-driving.
+
+[attach FINAL code]
