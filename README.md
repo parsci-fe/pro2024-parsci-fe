@@ -1,7 +1,7 @@
 Engineering materials
 ====
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the PRO Future Engineers competition in the season 2024.
+This repository contains engineering materials of Parañaque Science High School’s self-driven vehicle's model that is participating in the PRO (Philippine Robotics Olympiad) Future Engineers competition in the season 2024.
 
 ## Content
 
