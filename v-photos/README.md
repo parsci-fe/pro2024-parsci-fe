@@ -4,19 +4,18 @@ Vehicle's photos
 This directory contains 6 photos of the vehicle (from every side, from top and bottom)
 
 TOP VIEW:
-![top view](https://github.com/user-attachments/assets/12a38c7f-b8f1-486c-b769-732ec6d98f68)
+![Screenshot 2024-08-17 200917](https://github.com/user-attachments/assets/25585abc-4096-493f-b5a2-98a5b0f2c0ab)
 
 BOTTOM VIEW:
-![bottom view](https://github.com/user-attachments/assets/cd8647aa-4343-41e3-ad3f-234f1d7cd2bb)
+![Screenshot 2024-08-17 201009](https://github.com/user-attachments/assets/4dd2e84c-2ef1-4da5-babb-092f1664a1b0)
 
 FRONT VIEW
-![front view](https://github.com/user-attachments/assets/ecfae97f-a06a-4f89-a468-ddb81ffb3c51)
 
 CAR'S RIGHT SIDE VIEW:
-![car's right side view](https://github.com/user-attachments/assets/ff4794f0-747f-4dba-97f3-140c1adbb45e)
+![Screenshot 2024-08-17 200923](https://github.com/user-attachments/assets/dfbb5f47-db06-42d2-9da7-468b15d33bb5)
 
 CAR'S LEFT SIDE VIEW:
-![car's left side view](https://github.com/user-attachments/assets/1065322f-840e-42bc-8135-62293f975c5f)
+![Screenshot 2024-08-17 201001](https://github.com/user-attachments/assets/deacc8aa-ceac-4686-8a3c-5f7c2a81c13f)
 
 BACK VIEW:
-![back view](https://github.com/user-attachments/assets/f875a46e-fe7d-4391-abb2-7ea083939ed0)
+![Screenshot 2024-08-17 200954](https://github.com/user-attachments/assets/48bc6241-483e-4156-9629-75bae5f8444a)
