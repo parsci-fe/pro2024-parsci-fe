@@ -7,6 +7,10 @@ This directory contains the code for the control software which was developed by
 
 The software we used for our team's self-driving car is AIcode, the programming language for Nashenbot's AISTEAM. The attached code is the official one we used in order to make our car self-driving.
 
+![image](https://github.com/user-attachments/assets/cdf6424a-fe02-47ce-b7ac-6e121371fb3a)
+![image](https://github.com/user-attachments/assets/907feb2e-6ee1-45fb-b861-d8929e20f8a0)
+
+
 {
     "functionList": {
     },
