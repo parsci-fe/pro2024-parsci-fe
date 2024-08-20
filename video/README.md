@@ -6,5 +6,5 @@ This directory contains the video.md file with a URL to YouTube showing the vehi
 
 https://youtu.be/UPi2SpP8p68?si=vl-aWx0biHfkGB9R 
 
-<video src="[LINK](https://youtu.be/UPi2SpP8p68?si=vl-aWx0biHfkGB9R)" controls="controls" style="max-width: 730px;">
+<video src="https://youtu.be/UPi2SpP8p68?si=vl-aWx0biHfkGB9R" controls="controls" style="max-width: 730px;">
 </video>
